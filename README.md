@@ -1,4 +1,5 @@
 ### Hi there 👋  Mirnalini Here
+This is the place where I try some cool code stuffs
 
 Please find my Linkedin profile here:
 <div id="badges">
@@ -9,3 +10,6 @@ Please find my Linkedin profile here:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/J0CJNDEELygwhJSkSh/giphy.gif" width="100"/>
 </div>
+
+
+
