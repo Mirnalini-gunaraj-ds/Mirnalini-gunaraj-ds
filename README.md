@@ -1,6 +1,6 @@
 ### Hi there 👋  Mirnalini Here
 
-Please connect me here:
+Please find my Linkedin profile here:
 <div id="badges">
   <a href="https://www.linkedin.com/in/mirnalini-gunaraj-029718242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
