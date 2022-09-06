@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/J0CJNDEELygwhJSkSh/giphy.gif" width="100"/>
-</div>
-
 ### Hi there 👋  Mirnalini Here
 
 Please connect me here:
@@ -10,3 +6,6 @@ Please connect me here:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/J0CJNDEELygwhJSkSh/giphy.gif" width="100"/>
+</div>
