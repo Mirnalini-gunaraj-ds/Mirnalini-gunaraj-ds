@@ -4,7 +4,7 @@ Mirnalini Here
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/rainbow-motivation-keep-going-J0CJNDEELygwhJSkSh" width="100"/>
+  <img src="https://media.giphy.com/media/J0CJNDEELygwhJSkSh/giphy.gif" width="100"/>
 </div>
 
 
