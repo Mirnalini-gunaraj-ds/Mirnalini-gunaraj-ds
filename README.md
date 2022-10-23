@@ -16,11 +16,11 @@ Building my problem-solving, communication and interview skills through:
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/mirnalini-gunaraj-029718242/">
-<img src="Images/linkedin.png" alt="alternate text"
+<img src="Images/linkedin.png" alt="Linkedin"
 width="30px" height="height">
 </a> 
 <a href="https://medium.com/@mirnalinidatascientist">
-<img src="Images/medium.png" alt="alternate text"
+<img src="Images/medium.png" alt="Medium"
 width="30px" height="height">
 </a> 
 
@@ -50,4 +50,7 @@ width="30px" height="height">
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirnalini-gunaraj-ds&layout=compact)](https://github.com/Mirnalini-gunaraj-ds)
- 
+
+
+
+  
