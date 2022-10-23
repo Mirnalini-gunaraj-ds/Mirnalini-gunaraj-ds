@@ -1,3 +1,56 @@
+### Hi there 👋  I am Mirnalini Gunaraj !!! I finished my Masters in Data science. Also, I have 5.9 years of experience in data field. 
 
-  
+
+🎃 I'm currently looking for Data Analyst/Data Scientist opportunities. 
+
+Also, building my problem-solving, communication and interview skills through: 
+
+- 🌱 I’m currently learning Azure DP-203 Certification through Microsoft <a href="https://learn.microsoft.com/en-us/certifications/exams/dp-203"></a> 
+- 💃 I'm a recent data science graduate with 5.9 years of Industry Experience.
+- 👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
+- 🔭 I’m currently working on my problem-solving skills and portfolio.
+- 💬 Ask me about Data Analysis using Python & Excel, SQL and Data analytics & Reporting using PowerBI. 
+- 📫 How to reach me: mirnalinidatascientist@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to dance when I am sad so that i can get a instant energy to lit up.
+
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/mirnalini-gunaraj-029718242/">
+<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">
+</a> 
+<a href="https://medium.com/@mirnalinidatascientist">
+<img src="images/medium.png" alt="alternate text"
+width="30px" height="height">
+</a> 
+
+<br>
+
+## 💼 Technical Skills 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PowerBI] (https://img.shields.io/badge/PowerBI-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 👩🏽‍💻 Education 
+- Masters in Data Science From University of East London, UK
+- Bachelors in Computer science , Anna University , India
+
+![Coursera](https://img.shields.io/badge/Coursera-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) 
+
+##  ✍🏾 Project links
+
+- 👩🏽‍🏫 [Click Me](https://github.com/Mirnalini-gunaraj-ds/Projects) 
+
+
+<br>
+
+## 📝 Latest Blog Posts
+- [Time Series Forecasting Using Python](https://medium.com/p/48779ad7db40/edit)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirnalini-gunaraj-ds&layout=compact)](https://github.com/Mirnalini-gunaraj-ds)
+
+
+
   
