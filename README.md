@@ -3,7 +3,7 @@
 
 🎃 I'm currently looking for Data Scientist opportunities in the UK.  
 💃 Certified Tableau Desktop Specialist - <a href="https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91">
-<img src="Images/linkedin.png" alt="Linkedin"
+<img src="Images/tab.png" alt="Badge"
 width="30px" height="height">
 </a> https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91
 
