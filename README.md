@@ -1,18 +1,22 @@
 ### Hi there 👋  I am Mirnalini Gunaraj !!! I finished my Masters in Data science. Also, I have 5.9 years of experience in data field. 
 
 
-🎃 I'm currently looking for Data Analyst/Data Scientist opportunities in the UK. 
+🎃 I'm currently looking for Data Scientist opportunities in the UK.  
+💃 Certified Tableau Desktop Specialist - <a href="https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91">
+<img src="Images/linkedin.png" alt="Linkedin"
+width="30px" height="height">
+</a> https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91
 
 Building my problem-solving, communication and interview skills through: 
 
 - 🌱 I’m currently learning Azure DP-203 Certification through Microsoft <a href="https://learn.microsoft.com/en-us/certifications/exams/dp-203"></a> 
-- 💃 I'm a recent data science graduate with 5.9 years of Industry Experience.
+- 💃 I'm a recent data science graduate with 6 years of Industry Experience.
 - 👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
 - 🔭 I’m currently working on my problem-solving skills and portfolio.
-- 💬 Ask me about Data Analysis using Python & Excel, SQL and Data analytics & Reporting using PowerBI. 
+- 💬 Ask me about Data Analysis using Python & Excel, SQL and Data analytics & Reporting using Tableau and PowerBI. 
 - 📫 How to reach me: mirnalinidatascientist@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to sing aloud while driving.
+- ⚡ Fun fact: I love to sing aloud when i am alone.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/mirnalini-gunaraj-029718242/">
