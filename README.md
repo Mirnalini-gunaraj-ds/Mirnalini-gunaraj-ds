@@ -1,4 +1,4 @@
-### Hi there 👋  I am Mirnalini Gunaraj !!! I finished my Masters in Data science. Also, I have 5.9 years of experience in data field. 
+### Hi there 👋  I am Mirnalini Gunaraj !!! I finished my Masters in Data science. Also, I have 6+ years of experience in data field. 
 
 
 🎃 I'm currently looking for Data Scientist opportunities in the UK.  
