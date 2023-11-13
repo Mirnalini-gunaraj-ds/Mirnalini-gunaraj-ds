@@ -1,5 +1,5 @@
 ### Hi there 👋  I am Mirnalini Gunaraj !!! A Data Nerd holding a Masters degree in Data science and 6+ years of experience in the data field. 
-
+Checkout my Website - https://mirnalini-gunaraj-ds.github.io/MirnaGunaraj.github.io/
 
 🎃 I'm currently looking for Data Scientist opportunities in the UK.  
 💃 Certified Tableau Desktop Specialist
@@ -15,10 +15,10 @@
 
 Building my problem-solving, communication and interview skills through: 
 
-- 🌱 I’m currently learning AWS Machine Learning Speciality Certification
-- 💃 I'm a recent data science graduate with 6 years of Industry Experience.
+- 🌱 I’m currently learning AWS Machine Learning Speciality Certification.
+- 💃 I'm a experienced data associate with 6+ years of experience working for Banking,Financial,Education and Energy Sectors.
 - 👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
-- 🔭 I’m currently working on my problem-solving skills and portfolio.
+- 🔭 I’m currently exploring Generative AI.
 - 💬 Ask me about Data Analysis using Python & Excel, SQL and Data analytics & Reporting using Tableau and PowerBI. 
 - 📫 How to reach me: mirnalinidatascientist@gmail.com
 - 😄 Pronouns: She/Her
@@ -50,8 +50,6 @@ width="30px" height="height">
 
 <br>
 
-## 📝 Latest Blog Posts
-- [Time Series Forecasting Using Python](https://medium.com/p/48779ad7db40/edit)
 
 <br>
 
