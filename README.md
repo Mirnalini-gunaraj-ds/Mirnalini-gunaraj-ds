@@ -15,7 +15,7 @@
 
 Building my problem-solving, communication and interview skills through: 
 
-- 🌱 I’m currently learning Azure DP-203 Certification through Microsoft <a href="https://learn.microsoft.com/en-us/certifications/exams/dp-203"></a> 
+- 🌱 I’m currently learning AWS Machine Learning Speciality Certification
 - 💃 I'm a recent data science graduate with 6 years of Industry Experience.
 - 👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
 - 🔭 I’m currently working on my problem-solving skills and portfolio.
