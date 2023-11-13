@@ -3,9 +3,9 @@
 
 🎃 I'm currently looking for Data Scientist opportunities in the UK.  
 💃 Certified Tableau Desktop Specialist - <a href="https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91">
-<img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Badge1.PNG" alt="Badge"
+<img src="[Tableau desktop Specialist]([https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Badge1.PNG](https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91))" alt="Badge"
 width="30px" height="height">
-</a> https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91
+</a> 
 
 Building my problem-solving, communication and interview skills through: 
 
