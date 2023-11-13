@@ -20,15 +20,19 @@ Building my problem-solving, communication and interview skills through:
 - 👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
 - 🔭 I’m currently exploring Generative AI.
 - 💬 Ask me about Data Analysis using Python & Excel, SQL and Data analytics & Reporting using Tableau and PowerBI. 
-- 📫 How to reach me: mirnalinidatascientist@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sing aloud when i am alone.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/mirnalini-gunaraj-029718242/">
-<img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/linkedin.png" alt="Linkedin"
+<img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/linkedin.png" alt="Github"
 width="30px" height="height">
 </a> 
+<a href="mirnalinidatascientist@gmail.com/">
+<img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Gmail.PNG" alt="Gmail"
+width="100px" height="height">
+</a>
 
 <br>
 
