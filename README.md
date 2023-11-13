@@ -20,7 +20,6 @@ Building my problem-solving, communication and interview skills through:
 - 👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
 - 🔭 I’m currently exploring Generative AI.
 - 💬 Ask me about Data Analysis using Python & Excel, SQL and Data analytics & Reporting using Tableau and PowerBI. 
-- 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to sing aloud when i am alone.
 
