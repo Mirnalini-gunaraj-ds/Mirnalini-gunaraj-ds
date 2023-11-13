@@ -45,7 +45,7 @@ width="30px" height="height">
 
 ##  ✍🏾 Project links
 
-- 👩🏽‍🏫 [Projects](https://github.com/Mirnalini-gunaraj-ds/Projects) 
+- 👩🏽‍🏫 [Projects](https://github.com/Mirnalini-gunaraj-ds?tab=repositories) 
 
 
 <br>
