@@ -6,7 +6,7 @@
 <a href="https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91/">
 <img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Badge1.PNG" alt="TDS" 
      width="50px" height="height" >
-</a>                        💃 Microsoft Certified Azure Fundamentals
+</a>                        👩🏽‍🏫 Microsoft Certified Azure Fundamentals
 <a href="https://www.credly.com/earner/earned/badge/7c61a051-acfe-460e-9a4c-7a45e2b4a523/">
 <img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Badge2.PNG" alt="Azure" 
      width="50px" height="height" >
@@ -44,9 +44,9 @@ width="30px" height="height">
 ![Coursera](https://img.shields.io/badge/Coursera-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) 
 
 ##  ✍🏾 Project links
-
-- 👩🏽‍🏫 ![Github](https://github.com/Mirnalini-gunaraj-ds?tab=repositories)
-
+<a href="https://github.com/Mirnalini-gunaraj-ds?tab=repositories">
+  <img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/github-mark.png" alt="Github" width="100px">
+</a>
 
 <br>
 
