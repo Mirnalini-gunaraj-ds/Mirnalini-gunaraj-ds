@@ -6,6 +6,10 @@
 <a href="https://www.credly.com/badges/d662fa48-ab68-42d7-bf9a-5f1344608f91/">
 <img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Badge1.PNG" alt="TDS" 
      width="50px" height="height" >
+</a>                        💃 Microsoft Certified Azure Fundamentals
+<a href="https://www.credly.com/earner/earned/badge/7c61a051-acfe-460e-9a4c-7a45e2b4a523/">
+<img src="https://github.com/Mirnalini-gunaraj-ds/Mirnalini-gunaraj-lapcode/blob/main/Badge2.PNG" alt="Azure" 
+     width="50px" height="height" >
 </a> 
 
 
